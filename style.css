@@ -5,6 +5,7 @@ h1 {
 .secondPara {
   width: 10ch;
   background-color: red;
+  word-wrap: break-word;
 }
 
 .lastPara {
