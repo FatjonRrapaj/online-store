@@ -1,3 +1,14 @@
 h1 {
   color: red;
 }
+
+.secondPara {
+  width: 10ch;
+  background-color: red;
+  word-wrap: break-word;
+}
+
+.lastPara {
+  margin-top: 10px;
+  background-color: yellow;
+}
